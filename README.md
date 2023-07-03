@@ -13,7 +13,7 @@ Implementé prácticas de accesibilidad para garantizar que el sitio web sea uti
 Capturas de pantalla
 Aquí puedes ver algunas capturas de pantalla del proyecto:
 
-![Screenshot of the project.](/assets/images/active-states.jpg)
+![Screenshot of the project.](assets/images/active-states.jpg)
 
 ### Instalación y ejecución
 Sigue estos pasos para ejecutar el proyecto localmente:
@@ -28,8 +28,3 @@ Este proyecto me llevó aproximadamente 2 días completarlo, incluyendo el dise�
 
 ### Contribuciones y problemas
 Las contribuciones y sugerencias son bienvenidas. Si encuentras algún problema o tienes alguna mejora que proponer, por favor abre un issue en este repositorio.
-
-### Licencia
-Este proyecto está bajo la licencia [especifica la licencia que elijas, si corresponde].
-
-¡Siéntete libre de personalizar el README según tus necesidades y preferencias! Recuerda que es una oportunidad para mostrar tus habilidades y proporcionar una descripción clara y concisa de tu proyecto.
