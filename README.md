@@ -13,7 +13,7 @@ Implementé prácticas de accesibilidad para garantizar que el sitio web sea uti
 Capturas de pantalla
 Aquí puedes ver algunas capturas de pantalla del proyecto:
 
-![Screenshot of the project.](assets/images/active-states.jpg)
+![Screenshot of the project.](/news-page-challenge/assets/images/active-states.jpg)
 
 ### Instalación y ejecución
 Sigue estos pasos para ejecutar el proyecto localmente:
