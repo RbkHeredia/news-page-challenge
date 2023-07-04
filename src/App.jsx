@@ -17,9 +17,9 @@ function App() {
   ];
 
   const miniNews = [
-    {id:1, title: 'Reviving Retro PCs', text:'What happens when old PCs are given modern upgrades?', img:'/news-page-challenge/assets/images/image-retro-pcs.jpg'},
-    {id:2, title: 'Top 10 Laptops of 2022', text:'Our best picks for various needs and budgets.', img:'/news-page-challenge/assets/images/image-top-laptops.jpg'},
-    {id:3, title: 'The Growth of Gaming', text: 'How the pandemic has sparked fresh opportunities.', img:'/news-page-challenge/assets/images/image-gaming-growth.jpg'}
+    {id:1, title: 'Reviving Retro PCs', text:'What happens when old PCs are given modern upgrades?', img:'news-page-challenge/assets/images/image-retro-pcs.jpg'},
+    {id:2, title: 'Top 10 Laptops of 2022', text:'Our best picks for various needs and budgets.', img:'/assets/images/image-top-laptops.jpg'},
+    {id:3, title: 'The Growth of Gaming', text: 'How the pandemic has sparked fresh opportunities.', img:'assets/images/image-gaming-growth.jpg'}
   ]
   return (
     <Container fluid className='p-0' >
