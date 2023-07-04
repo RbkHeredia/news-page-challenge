@@ -5,7 +5,7 @@ import '../styles/styles.css';
 
 export default function NavBar(){
   return(
-      <Navbar  className="bg-body-tertiary mb-3" expand="lg" style={{padding:'2rem 12%'}}>
+      <Navbar  className="bg-white mb-3" expand="lg" style={{padding:'2rem 12%'}}>
         <Container fluid>
           <Navbar.Brand href="#"><h1 style={{fontFamily:'Scheherazade New', fontWeight:700}}>W.</h1></Navbar.Brand>
           <Navbar.Toggle aria-controls='offcanvasNavbar-expand-md' />
